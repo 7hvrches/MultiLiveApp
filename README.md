@@ -1,6 +1,4 @@
 # MultiLiveApp
-
-# info
 Android App
 language : JAVA
 DB : Firebase
