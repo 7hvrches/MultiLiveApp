@@ -1,5 +1,6 @@
 # MultiLiveApp
 
+졸업작품용
 Android App
 
 language : JAVA
